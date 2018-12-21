@@ -1,6 +1,6 @@
-#Codebook for U.S. Senate Returns 1976–2016
+#Codebook for U.S. Senate Returns 1976–2018
 
-The data file `1976-2016-senate` contains constituency (state-level) returns for elections to the U.S. Senate from 1976 to 2016.  The data source is the document "[Statistics of the Congressional Election](http://history.house.gov/Institution/Election-Statistics/Election-Statistics/)," published biennially by the Clerk of the U.S. House of Representatives.
+The data file `1976-2018-senate` contains constituency (state-level) returns for elections to the U.S. Senate from 1976 to 2018.  The data source is the document "[Statistics of the Congressional Election](http://history.house.gov/Institution/Election-Statistics/Election-Statistics/)," published biennially by the Clerk of the U.S. House of Representatives. 2018 data comes from official state election websites (in some cases, they are marked as unofficial, and will be updated at a later time).
 
 ##Variables 
 The variables are listed as they appear in the data file.  
@@ -8,11 +8,6 @@ The variables are listed as they appear in the data file.
 ###year
  - **Description**: year in which election was held
  
----------------
-
-###office
-  - **Description**: U.S. Senate (constant)
-  
 ---------------
 
 ###state
@@ -39,6 +34,12 @@ The variables are listed as they appear in the data file.
  - **Description**: ICPSR state code
 
  --------------- 
+ 
+###office
+- **Description**: U.S. Senate (constant)
+  
+---------------
+
 ### district
  - **Description**: statewide (constant)
 
@@ -48,7 +49,8 @@ The variables are listed as they appear in the data file.
  - **Description**: electoral stage
  - **Coding**: 
 
-|:--|:--|
+| code | definition |
+|:---|:---|
 | "gen" | general elections |
 | "pri" | primary elections |
 
@@ -60,7 +62,8 @@ The variables are listed as they appear in the data file.
 - **Description**: special election
 - Coding  
 
-|:--|:--|
+| code | definition |
+|:---|:---|
 | "TRUE" | special elections |
 | "FALSE" | regular elections |
 
@@ -80,11 +83,17 @@ The variables are listed as they appear in the data file.
 	
 ### writein
 - **Description**: vote totals associated with write-in candidates
-- Coding:
+- **Coding**:
 
-|:--|:--|
+| code | definition |
+|:---|:---|
 | "TRUE" | write-in candidates |
 | "FALSE" | non-write-in candidates |
+
+-----------------
+
+### mode
+- **Description**: mode of voting; states with data that doesn't break down returns by mode are marked as "total"
 
 ----------------
 	
@@ -96,7 +105,12 @@ The variables are listed as they appear in the data file.
 ### totalvotes
  - **Description**: total number of votes cast for this election
 
+ ----------------
+
+### unofficial
+- **Description**: TRUE/FALSE indicator for unofficial result (to be updated later); this appears only for 2018 data in some cases
+
 ----------------
 
-## Version 
-- 20171101
+### version  
+- **Description**: date when this dataset was finalize
