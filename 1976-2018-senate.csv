@@ -264,9 +264,10 @@
 2014,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"Jeff Sessions","republican",FALSE,"total",795606,818090,FALSE,20171011
 2002,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"Susan Parker","democrat",FALSE,"total",538878,1353023,FALSE,20171011
 1990,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",150,1185154,FALSE,20171011
-2010,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"William G. Barnes","democrat",FALSE,"total",515619,1483800,FALSE,20171011
+2010,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"William G. Barnes","democrat",FALSE,"total",515619,1485499,FALSE,20171011
 1990,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"Howell Heflin","democrat",FALSE,"total",717814,1185154,FALSE,20171011
-2010,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"Richard C. Shelby","republican",FALSE,"total",968181,1483800,FALSE,20171011
+2010,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",1699,1485499,NA,NA
+2010,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"Richard C. Shelby","republican",FALSE,"total",968181,1485499,FALSE,20171011
 1980,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"Mohammed Oliver","socialist workers",FALSE,"total",1511,1296757,FALSE,20171011
 1984,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"Albert Lee Smith","republican",FALSE,"total",498508,1371234,FALSE,20171011
 2016,"Alabama","AL",1,63,41,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",3631,2087444,FALSE,20171011
@@ -407,7 +408,7 @@
 1992,"California","CA",6,93,71,"US Senate","statewide","gen",FALSE,"Barbara Boxer","democrat",FALSE,"total",5173467,10799703,FALSE,20171011
 1998,"California","CA",6,93,71,"US Senate","statewide","gen",FALSE,"Timothy R. Erich","reform",FALSE,"total",82918,8311905,FALSE,20171011
 1992,"California","CA",6,93,71,"US Senate","statewide","gen",TRUE,"Gerald Horne","peace and freedom",FALSE,"total",305697,10782743,FALSE,20171011
-2000,"California","CA",6,93,71,"US Senate","statewide","gen",FALSE,"Jose Luis ÂÂJoeÂÂ Camahort","reform",FALSE,"total",96552,10623608,FALSE,20171011
+2000,"California","CA",6,93,71,"US Senate","statewide","gen",FALSE,"Jose Luis Պ�Պ�JoeՊ�Պ� Camahort","reform",FALSE,"total",96552,10623608,FALSE,20171011
 2010,"California","CA",6,93,71,"US Senate","statewide","gen",FALSE,"Barbara Boxer","democrat",FALSE,"total",5218441,10000160,FALSE,20171011
 1982,"California","CA",6,93,71,"US Senate","statewide","gen",FALSE,"Theresa ""Tena"" Dietrich","american independent",FALSE,"total",83809,7805450,FALSE,20171011
 2000,"California","CA",6,93,71,"US Senate","statewide","gen",FALSE,"Medea Susan Benjamin","green",FALSE,"total",326828,10623608,FALSE,20171011
@@ -493,7 +494,7 @@
 2002,"Colorado","CO",8,84,62,"US Senate","statewide","gen",FALSE,"Doulgas ""Dayhorse"" Campbell","american constitution",FALSE,"total",21547,1416082,FALSE,20171011
 2010,"Colorado","CO",8,84,62,"US Senate","statewide","gen",FALSE,"Robert Rank","",TRUE,"total",67,1772286,FALSE,20171011
 2010,"Colorado","CO",8,84,62,"US Senate","statewide","gen",FALSE,"Jason Napolitano","independent reform",FALSE,"total",19415,1772286,FALSE,20171011
-2014,"Colorado","CO",8,84,62,"US Senate","statewide","gen",FALSE,"RaÃl Acosta","unaffiliated",FALSE,"total",24151,2041058,FALSE,20171011
+2014,"Colorado","CO",8,84,62,"US Senate","statewide","gen",FALSE,"Ra�l Acosta","unaffiliated",FALSE,"total",24151,2041058,FALSE,20171011
 1986,"Colorado","CO",8,84,62,"US Senate","statewide","gen",FALSE,"Ken Kramer","republican",FALSE,"total",512994,1060765,FALSE,20171011
 2016,"Colorado","CO",8,84,62,"US Senate","statewide","gen",FALSE,"Paul Noel Fiorino","none",FALSE,"total",3216,2743023,FALSE,20171011
 1986,"Colorado","CO",8,84,62,"US Senate","statewide","gen",FALSE,"Timothy E. Wirth","democrat",FALSE,"total",529449,1060765,FALSE,20171011
@@ -1432,7 +1433,7 @@
 1976,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Paul S. Sarbanes","democrat",FALSE,"total",772101,1365290,FALSE,20171011
 1976,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Bruce Bradley","independent",FALSE,"total",62750,1365290,FALSE,20171011
 1994,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"William Brock","republican",FALSE,"total",559908,1369101,FALSE,20171011
-2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Lih Young","democrat",FALSE,"total",77,2726170,FALSE,20171011
+2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Lih Young","democratic",TRUE,"total",77,2726170,FALSE,20171011
 1986,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Linda Chavez","republican",FALSE,"total",437411,1112637,FALSE,20171011
 2004,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Barbara A. Mikulski","democrat",FALSE,"total",1504691,2321931,FALSE,20171011
 1986,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Barbara A. Mikulski","democrat",FALSE,"total",675225,1112637,FALSE,20171011
@@ -1443,7 +1444,7 @@
 2000,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Corrogan R. Vaughn","",TRUE,"total",113,1946898,FALSE,20171011
 2012,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"S. Rob Sobhani","none",FALSE,"total",430934,2633234,FALSE,20171011
 2010,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Lih Young","",TRUE,"total",80,1833858,FALSE,20171011
-2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Jeffrey Binkins","democrat",FALSE,"total",7,2726170,FALSE,20171011
+2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Jeffrey Binkins","",TRUE,"total",7,2726170,FALSE,20171011
 1998,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Ross Z. Pierpont","republican",FALSE,"total",444637,1507447,FALSE,20171011
 1988,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Paul S. Sarbanes","democrat",FALSE,"total",999166,1617065,FALSE,20171011
 2012,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Lih Young","democrat",TRUE,"total",163,2633234,FALSE,20171011
@@ -1458,12 +1459,12 @@
 2006,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Kevin Zeese","green",FALSE,"total",27564,1781139,FALSE,20171011
 1980,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Edward T. Conroy","democrat",FALSE,"total",435118,1286088,FALSE,20171011
 2000,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Other","",FALSE,"total",1594,1946898,FALSE,20171011
-2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Greg Dorsey","none",FALSE,"total",242,2726170,FALSE,20171011
+2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Greg Dorsey","none",TRUE,"total",242,2726170,FALSE,20171011
 2010,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Mary Catherine Podlesak","republican",TRUE,"total",6,1833858,FALSE,20171011
-2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Ed Tinus","none",FALSE,"total",138,2726170,FALSE,20171011
+2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Ed Tinus","none",TRUE,"total",138,2726170,FALSE,20171011
 2010,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"James T. Lynch, Jr.","democrat",TRUE,"total",84,1833858,FALSE,20171011
 2004,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Thomas Trump","constitution",FALSE,"total",9009,2321931,FALSE,20171011
-2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Bob Robinson","democrat",FALSE,"total",15,2726170,FALSE,20171011
+2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Bob Robinson","",TRUE,"total",15,2726170,FALSE,20171011
 2006,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Michael S. Steele","republican",FALSE,"total",787182,1781139,FALSE,20171011
 2010,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Robert J. Evans","",TRUE,"total",14,1833858,FALSE,20171011
 2012,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Mary Podlesak","republican",TRUE,"total",21,2633234,FALSE,20171011
@@ -1472,7 +1473,7 @@
 2010,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",1644,1833858,FALSE,20171011
 2006,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",796,1781139,FALSE,20171011
 2010,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Donald Kaplan","",TRUE,"total",110,1833858,FALSE,20171011
-2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Charles U. Smith","democrat",FALSE,"total",26,2726170,FALSE,20171011
+2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Charles U. Smith","",TRUE,"total",26,2726170,FALSE,20171011
 2016,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",3231,2726170,FALSE,20171011
 1994,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",68,1369101,FALSE,20171011
 2010,"Maryland","MD",24,52,52,"US Senate","statewide","gen",FALSE,"Barbara Mikulski","democrat",FALSE,"total",1140531,1833858,FALSE,20171011
@@ -1488,7 +1489,7 @@
 1994,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Olympia J. Snowe","republican",FALSE,"total",308244,511733,FALSE,20171011
 2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Danny Francis Dalton","",FALSE,"total",5807,724720,FALSE,20171011
 2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Stephen M. Woods","",FALSE,"total",10289,724720,FALSE,20171011
-2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Angus King","",FALSE,"total",370580,724720,FALSE,20171011
+2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Angus King","independent for Maine",FALSE,"total",370580,724720,FALSE,20171011
 2014,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Other","",FALSE,"total",269,616996,FALSE,20171011
 1996,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Other","",FALSE,"total",70,606777,FALSE,20171011
 1994,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Thomas H. Andrews","democrat",FALSE,"total",186042,511733,FALSE,20171011
@@ -1518,17 +1519,17 @@
 2006,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"William H. Slavick","independent",FALSE,"total",26222,545128,FALSE,20171011
 2006,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Jean M. Hay Bright","democrat",FALSE,"total",113131,545128,FALSE,20171011
 2000,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Mark W. Lawrence","democrat",FALSE,"total",197183,634872,FALSE,20171011
-2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Cynthia Ann Dill","",FALSE,"total",92900,724720,FALSE,20171011
+2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Cynthia Ann Dill","democrat",FALSE,"total",92900,724720,FALSE,20171011
 2000,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Olympia J. Snowe","republican",FALSE,"total",437689,634872,FALSE,20171011
 1978,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"William S. Cohen","republican",FALSE,"total",212294,375114,FALSE,20171011
 1978,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Hayes E. Gahagan","independent",FALSE,"total",27824,375114,FALSE,20171011
 1988,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Jasper S. Wyman","republican",FALSE,"total",104164,556745,FALSE,20171011
-2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Charles E. Summers, Jr.","",FALSE,"total",215399,724720,FALSE,20171011
+2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Charles E. Summers, Jr.","republican",FALSE,"total",215399,724720,FALSE,20171011
 2008,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Thomas H. Allen","democrat",FALSE,"total",279510,724430,FALSE,20171011
 1982,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"David F. Emery","republican",FALSE,"total",179882,459715,FALSE,20171011
 1996,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Susan M. Collins","republican",FALSE,"total",298422,606777,FALSE,20171011
 1990,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Neil Rolde","democrat",FALSE,"total",201053,520320,FALSE,20171011
-2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Andrew Ian Dodge","",FALSE,"total",5624,724720,FALSE,20171011
+2012,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Andrew Ian Dodge","Independent for Liberty",FALSE,"total",5624,724720,FALSE,20171011
 1982,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"George J. Mitchell","democrat",FALSE,"total",279819,459715,FALSE,20171011
 1976,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Edmund S. Muskie","democrat",FALSE,"total",292704,486193,FALSE,20171011
 1978,"Maine","ME",23,11,2,"US Senate","statewide","gen",FALSE,"Plato Truman","independent",FALSE,"total",2116,375114,FALSE,20171011
@@ -2111,7 +2112,7 @@
 2014,"New Jersey","NJ",34,22,12,"US Senate","statewide","gen",FALSE,"Cory A. Booker","democrat",FALSE,"total",1043866,1869535,FALSE,20171011
 1978,"New Jersey","NJ",34,22,12,"US Senate","statewide","gen",FALSE,"Robert Brown","labor",FALSE,"total",3656,1957515,FALSE,20171011
 1994,"New Jersey","NJ",34,22,12,"US Senate","statewide","gen",FALSE,"Arlene Gold","natural law",FALSE,"total",3249,2054887,FALSE,20171011
-2006,"New Jersey","NJ",34,22,12,"US Senate","statewide","gen",FALSE,"Daryl Mikell Brooks","poor peoples campaign",FALSE,"total",5138,2250070,FALSE,20171011
+2006,"New Jersey","NJ",34,22,12,"US Senate","statewide","gen",FALSE,"Daryl Mikell Brooks","poor people�s campaign",FALSE,"total",5138,2250070,FALSE,20171011
 1988,"New Jersey","NJ",34,22,12,"US Senate","statewide","gen",FALSE,"Thomas A. Fiske","socialist workers",FALSE,"total",5347,2987634,FALSE,20171011
 1978,"New Jersey","NJ",34,22,12,"US Senate","statewide","gen",FALSE,"J. M. Carter Jr. ","independent",FALSE,"total",3618,1957515,FALSE,20171011
 2014,"New Jersey","NJ",34,22,12,"US Senate","statewide","gen",FALSE,"Antonio N. Sabas","independent",FALSE,"total",3544,1869535,FALSE,20171011
@@ -2576,7 +2577,7 @@
 2014,"Oregon","OR",41,92,72,"US Senate","statewide","gen",FALSE,"Mike Montchalin","libertarian",FALSE,"total",44916,1461618,FALSE,20171011
 2002,"Oregon","OR",41,92,72,"US Senate","statewide","gen",FALSE,"Lon Mabon","constitution",FALSE,"total",21703,1267221,FALSE,20171011
 1992,"Oregon","OR",41,92,72,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",5793,1376033,FALSE,20171011
-2016,"Oregon","OR",41,92,72,"US Senate","statewide","gen",FALSE,"Eic Navickas","pacific green",FALSE,"total",48823,1952478,FALSE,20171011
+2016,"Oregon","OR",41,92,72,"US Senate","statewide","gen",FALSE,"Eric Navickas","pacific green",FALSE,"total",48823,1952478,FALSE,20171011
 2010,"Oregon","OR",41,92,72,"US Senate","statewide","gen",FALSE,"Ron Wyden","democrat",FALSE,"total",825507,1442588,FALSE,20171011
 1978,"Oregon","OR",41,92,72,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",737,892518,FALSE,20171011
 1998,"Oregon","OR",41,92,72,"US Senate","statewide","gen",FALSE,"Karyn Moskowitz","pacific",FALSE,"total",22024,1117747,FALSE,20171011
@@ -2873,7 +2874,7 @@
 1994,"Tennessee","TN",47,62,54,"US Senate","statewide","gen",TRUE,"Fred Thompson","republican",FALSE,"total",885998,1465862,FALSE,20171011
 1976,"Tennessee","TN",47,62,54,"US Senate","statewide","gen",FALSE,"Willie C. Jacox","independent",FALSE,"total",1406,1432046,FALSE,20171011
 1994,"Tennessee","TN",47,62,54,"US Senate","statewide","gen",FALSE,"Charles F. Johnson","independent",FALSE,"total",6631,1480391,FALSE,20171011
-2006,"Tennessee","TN",47,62,54,"US Senate","statewide","gen",FALSE,"Emory ÂÂBoÂÂ Heyward","independent",FALSE,"total",3580,1833695,FALSE,20171011
+2006,"Tennessee","TN",47,62,54,"US Senate","statewide","gen",FALSE,"Emory Պ�Պ�BoՊ�Պ� Heyward","independent",FALSE,"total",3580,1833695,FALSE,20171011
 1976,"Tennessee","TN",47,62,54,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",31,1432046,FALSE,20171011
 1994,"Tennessee","TN",47,62,54,"US Senate","statewide","gen",TRUE,"Hobart R. Lumpkin","independent",FALSE,"total",1184,1465862,FALSE,20171011
 1976,"Tennessee","TN",47,62,54,"US Senate","statewide","gen",FALSE,"James R. Sasser","democrat",FALSE,"total",751180,1432046,FALSE,20171011
@@ -3246,7 +3247,7 @@
 1982,"Washington","WA",53,91,73,"US Senate","statewide","gen",FALSE,"Henry M. Jackson","democrat",FALSE,"total",943655,1368476,FALSE,20171011
 1986,"Washington","WA",53,91,73,"US Senate","statewide","gen",FALSE,"Brock Adams","democrat",FALSE,"total",677471,1337367,FALSE,20171011
 1994,"Wisconsin","WI",55,35,25,"US Senate","statewide","gen",FALSE,"James Dean","libertarian",FALSE,"total",15439,1565628,FALSE,20171011
-2016,"Wisconsin","WI",55,35,25,"US Senate","statewide","gen",FALSE,"uss Feingold","democrat",FALSE,"total",1380335,2948741,FALSE,20171011
+2016,"Wisconsin","WI",55,35,25,"US Senate","statewide","gen",FALSE,"Russ Feingold","democrat",FALSE,"total",1380335,2948741,FALSE,20171011
 1976,"Wisconsin","WI",55,35,25,"US Senate","statewide","gen",FALSE,"Michael A. MacLaurin","u.s. labor",FALSE,"total",2148,1935183,FALSE,20171011
 1980,"Wisconsin","WI",55,35,25,"US Senate","statewide","gen",FALSE,"","",TRUE,"total",67,2204202,FALSE,20171011
 1998,"Wisconsin","WI",55,35,25,"US Senate","statewide","gen",FALSE,"Blank Vote/Scattering","",FALSE,"total",706,1760836,FALSE,20171011
