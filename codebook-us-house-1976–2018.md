@@ -1,32 +1,32 @@
 
-#Codebook for U.S. House Returns 1976–2018
+# Codebook for U.S. House Returns 1976–2018
 
 The data file `1976-2018-house` contains constituency (district) returns for elections to the U.S. House of Representatives from 1976 to 2018.  The data source is the document "[Statistics of the Congressional Election](http://history.house.gov/Institution/Election-Statistics/Election-Statistics/)," published biennially by the Clerk of the U.S. House of Representatives. 2018 data comes from official state election websites, and for Kansas, come from Stephen Pettigrew and the Kansas Secretary of State office (in some cases, they are marked as unofficial, and will be updated at a later time).
 
-##Variables 
+## Variables 
 The variables are listed as they appear in the data file.  
 
-###year
+### year
  - **Description**: year in which election was held
  
 ---------------
 
-###state
+### state
  - **Description**: state name
 
  ---------------
  
-###state_po
+### state_po
  - **Description**: U.S. postal code state abbreviation
 
  ---------------
  
-###state_fips
+### state_fips
  - **Description**: State FIPS code
 
 ----------------
 
-###state_cen
+### state_cen
  - **Description**: U.S. Census state code
 
  ---------------
@@ -36,7 +36,7 @@ The variables are listed as they appear in the data file.
 
  --------------- 
  
-###office
+### office
 - **Description**: U.S. House (constant)
   
 ---------------
