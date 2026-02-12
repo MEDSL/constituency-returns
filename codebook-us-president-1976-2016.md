@@ -1,36 +1,36 @@
-#Codebook for U.S. President Returns 1976–2016
+# Codebook for U.S. President Returns 1976–2016
 
 The data file `1976-2016-president` contains constituency (state-level) returns for elections to the U.S. presidency from 1976 to 2016.  The data source is the document "[Statistics of the Congressional Election](http://history.house.gov/Institution/Election-Statistics/Election-Statistics/)," published biennially by the Clerk of the U.S. House of Representatives.
 
-##Variables 
+## Variables 
 The variables are listed as they appear in the data file.  
 
-###year
+### year
  - **Description**: year in which election was held
  
 ---------------
 
-###office
+### office
   - **Description**: U.S. President
   
 ---------------
 
-###state
+### state
  - **Description**: state name
 
  ---------------
  
-###state_po
+### state_po
  - **Description**: U.S. postal code state abbreviation
 
  ---------------
  
-###state_fips
+### state_fips
  - **Description**: State FIPS code
 
 ----------------
 
-###state_cen
+### state_cen
  - **Description**: U.S. Census state code
 
  ---------------
